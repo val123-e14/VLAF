@@ -1,0 +1,24 @@
+{
+    "objetos": [
+      {
+        "descripcion": "Banquitos para bebes",
+        "url_imagen": "img/perrito.jpg"
+      },
+      {
+        "descripcion": "Portátil",
+        "url_imagen": "img/perfil1.jpg"
+      },
+      {
+        "descripcion": "Libreta",
+        "url_imagen": "https://ejemplo.com/libreta.jpg"
+      },
+      {
+        "descripcion": "Taza",
+        "url_imagen": "https://ejemplo.com/taza.jpg"
+      },
+      {
+        "descripcion": "Reloj",
+        "url_imagen": "https://ejemplo.com/reloj.jpg"
+      }
+    ]
+  }
